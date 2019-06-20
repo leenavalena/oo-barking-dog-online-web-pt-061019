@@ -4,6 +4,7 @@ class Dog
   
   def fido_name  
 end
+
   def bark 
     puts "woof!"
   end
